@@ -36,7 +36,7 @@ const NewsletterSection: React.FC = () => {
 
     setIsSubmitting(true); // Start loading
     try {
-      const response = await fetch('hhttps://coinova-backend.vercel.app/subscribe', {
+      const response = await fetch('https://coinova-backend.vercel.app/subscribe', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
