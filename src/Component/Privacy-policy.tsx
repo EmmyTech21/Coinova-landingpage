@@ -58,7 +58,7 @@ export default function Privacypolicy() {
 //     </div>
 //     </div>
 
-<section className="p-8 max-w-4xl mx-auto">
+<section className="p-8 max-w-4xl mx-auto bg-[#09BC8A]">
       <h1 className="text-3xl font-bold mb-4 text-[#172A3A]">Privacy Policy</h1>
       <p className="text-gray-700 mb-4">
         At Coinova, we value your privacy and are committed to protecting your personal information. This policy outlines how we collect, use, and safeguard your data.
